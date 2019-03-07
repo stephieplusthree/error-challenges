@@ -1,4 +1,4 @@
-var nam;
+var name = "Stephanie";
 
 function printName (){
   console.log(name)
